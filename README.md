@@ -17,6 +17,8 @@ Swerve Base Drive:
 Full Robot CAD
 <img width="844" height="754" alt="image" src="https://github.com/user-attachments/assets/21d3f2e5-05a8-4a18-a46a-3f1471844dce" />
 
+<img width="532" height="798" alt="image" src="https://github.com/user-attachments/assets/cc25c9e2-b32f-4597-99d8-22001daed088" />
+
 Wiring Diagram
 <img width="1347" height="812" alt="image" src="https://github.com/user-attachments/assets/edec8972-df17-488d-acce-6290cf6a07f5" />
 
