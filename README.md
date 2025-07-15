@@ -6,7 +6,8 @@ Tonkotsu RIVAL Robot is a robot built to play the RIVAL Robotics competition wit
 *Note: For the purposes of the Undercity project, we will be focusing on building the swerve drive as it will enable us to build upon a base for all the future seasons to come and not be outdated by the end of this season.
 
 ## Why are we making this project?
-Tonkotsu Tech Robotics is a non-profit project under Hack Club and run by high schoolers. We are a team comprised of around 10 robotics enthusiasts who all stem from a FRC (FIRST Robotics Competition) background. Wanting to expand our knowledge into the vast landscape of the engineering field, we starting working on our RIVAL robot, a new seperate competition. Our goal is to eventually expand to newcomers to teach and introduce members into robotics. Following this train of thought, making this robot will allow us to gain the knowledge and tools necessary to share our experience and inspire passion in others. This project will give us a strong starting point to growing our program.
+Tonkotsu Tech Robotics is a non-profit project under Hack Club and run by high schoolers. We are a team comprised of around 10 robotics enthusiasts who all stem from a FRC (FIRST Robotics Competition) background. Wanting to expand our knowledge into the vast landscape of the engineering field, we starting working on our RIVAL robot, a new seperate competition. 
+Our goal is to eventually expand to newcomers to teach and introduce members into robotics. Following this train of thought, making this robot will allow us to gain the knowledge and tools necessary to share our experience and inspire passion in others. This project will give us a strong starting point to growing our program.
 
 ## Pictures:
 Swerve Base Drive:
