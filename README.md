@@ -17,3 +17,19 @@ Full Robot CAD
 
 Wiring Diagram
 <img width="1353" height="800" alt="image" src="https://github.com/user-attachments/assets/55b63483-f12a-416f-ac1e-3f9614d3cf1c" />
+
+## Bill of Materials List:
+| Vendor | Item | Links | Cost | Amount | Total |
+|---|---|---|---|---|---|
+| REV | Wheel Bevel Gear | https://www.revrobotics.com/MAXSwerve-Spare-Parts/?searchid=4508052&search_query=swerve+parts | 24 | 3 | $72.00 |
+| REV | Wheel Hub | https://www.revrobotics.com/MAXSwerve-Spare-Parts/?searchid=4508052&search_query=swerve+parts | 6 | 3 | $18.00 |
+| REV | Wheel Axle | https://www.revrobotics.com/MAXSwerve-Spare-Parts/?searchid=4508052&search_query=swerve+parts | 2.5 | 3 | $7.50 |
+| REV | Bearing Pack | https://www.revrobotics.com/MAXSwerve-Spare-Parts/?searchid=4508052&search_query=swerve+parts | 24 | 3 | $72.00 |
+| REV | Bevel Pinion | https://www.revrobotics.com/MAXSwerve-Spare-Parts/?searchid=4508052&search_query=swerve+parts | 10 | 3 | $30.00 |
+| REV | Drive Spur Gear | https://www.revrobotics.com/MAXSwerve-Spare-Parts/?searchid=4508052&search_query=swerve+parts | 7.2 | 3 | $21.60 |
+| REV | Hardware Pack | https://www.revrobotics.com/MAXSwerve-Spare-Parts/?searchid=4508052&search_query=swerve+parts | 5 | 3 | $15.00 |
+| REV | MAXTube - 1x1 Grid 1/8 | https://www.revrobotics.com/MAXTube-1x1/?searchid=4575657&search_query=1x1 | 30 | 1 | $30.00 |
+| REV | Shipping | Shipping Cost to SoCal Rev | 17.55 | 1 | $17.55 |
+| Fabworks | 18T Custom Gear (+ shipping) | https://www.fabworks.com/quotes/qte_2ztaFfEJGVc8tmkimvL03wPy3Ym | 32.88 | 1 | $32.88 |
+| GoBilda | XT30 Extension (+ shipping) | https://www.gobilda.com/xt30-extension-fh-mc-to-mh-fc-300mm-length/ | 6.22 | 6 | $37.32 |
+|  |  |  |  | 24 | $353.85 |
