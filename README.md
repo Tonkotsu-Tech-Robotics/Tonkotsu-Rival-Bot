@@ -1,6 +1,11 @@
 # Tonkotsu-Rival-Bot
 
+##Pictures:
+## Swerve Base Drive:
 <img width="1045" height="771" alt="image" src="https://github.com/user-attachments/assets/6e5da96a-5414-4b25-a46e-a1c070b2bd9a" />
+
+## Full Robot CAD
+<img width="844" height="754" alt="image" src="https://github.com/user-attachments/assets/21d3f2e5-05a8-4a18-a46a-3f1471844dce" />
 
 
 ## What is it?
