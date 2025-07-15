@@ -16,7 +16,7 @@ Full Robot CAD
 <img width="844" height="754" alt="image" src="https://github.com/user-attachments/assets/21d3f2e5-05a8-4a18-a46a-3f1471844dce" />
 
 Wiring Diagram
-<img width="1354" height="804" alt="image" src="https://github.com/user-attachments/assets/7e7c2619-ab16-4751-8d92-9686f69a5852" />
+<img width="1347" height="812" alt="image" src="https://github.com/user-attachments/assets/edec8972-df17-488d-acce-6290cf6a07f5" />
 
 ## Bill of Materials List:
 | Vendor | Item | Links | Cost | Amount | Total |
