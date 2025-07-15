@@ -33,5 +33,5 @@ Wiring Diagram
 | REV | MAXTube - 1x1 Grid 1/8 | https://www.revrobotics.com/MAXTube-1x1/?searchid=4575657&search_query=1x1 | 30 | 1 | $30.00 |
 | REV | Shipping | Shipping Cost to SoCal Rev | 17.55 | 1 | $17.55 |
 | Fabworks | 18T Custom Gear (+ shipping) | https://www.fabworks.com/quotes/qte_2ztaFfEJGVc8tmkimvL03wPy3Ym | 32.88 | 1 | $32.88 |
-| GoBilda | XT30 Extension (+ shipping) | https://www.gobilda.com/xt30-extension-fh-mc-to-mh-fc-300mm-length/ | 6.22 | 6 | $37.32 |
-|  |  |  |  | 24 | $353.85 |
+| GoBilda | XT30 Extension (+ shipping) | https://www.gobilda.com/xt30-extension-fh-mc-to-mh-fc-300mm-length/ | 4.99 | 6 | $29.94 |
+|  |  |  |  | 24 | $346.47 |
