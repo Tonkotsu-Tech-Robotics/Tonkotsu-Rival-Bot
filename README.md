@@ -17,6 +17,12 @@ Swerve Base Drive:
 Full Robot CAD
 <img width="844" height="754" alt="image" src="https://github.com/user-attachments/assets/21d3f2e5-05a8-4a18-a46a-3f1471844dce" />
 
+<img width="753" height="687" alt="image" src="https://github.com/user-attachments/assets/bf7f7227-8342-4802-950b-dcfb153b2104" />
+
+<img width="674" height="687" alt="image" src="https://github.com/user-attachments/assets/69d2d594-3bb0-4d02-8137-d5b97cfa01d0" />
+
+<img width="374" height="776" alt="image" src="https://github.com/user-attachments/assets/0bb6713d-d265-44ea-847d-ce95a0825324" />
+
 <img width="532" height="798" alt="image" src="https://github.com/user-attachments/assets/cc25c9e2-b32f-4597-99d8-22001daed088" />
 
 Wiring Diagram
